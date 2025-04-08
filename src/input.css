@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.scroll-container {
+  scrollbar-width: thin;
+  scrollbar-color: #000 transparent;
+}
