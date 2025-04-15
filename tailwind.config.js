@@ -6,6 +6,10 @@ module.exports = {
       backgroundImage: {
         'custom-gradient': 'linear-gradient(33.85deg, #FDE8E4 37.88%, #ECECEC 73.61%)',
     },
+    fontFamily: {
+      sans: ['DM Sans', 'sans-serif'],
+      'dm-sans': ['DM Sans', 'sans-serif'],
+    },
   },
   plugins: [],
 }
